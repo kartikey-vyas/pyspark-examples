@@ -12,7 +12,7 @@ else
     mkdir data
     cd data
     pwd
-fi
+figit
 
 # retrieve and unzip houses.zip
 if [ -f "${PWD}/cadata.txt" ]
